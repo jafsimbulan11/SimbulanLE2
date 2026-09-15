@@ -59,9 +59,11 @@
     <Folder Include="dbo" />
     <Folder Include="dbo\tables" />
     <Folder Include="dbo\tables\users" />
+    <Folder Include="Stored Procedures" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\tables\users.sql" />
+    <Build Include="Stored Procedures\spUsers_Authenticate.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="SimbulanBlogDB.publish.xml" />
