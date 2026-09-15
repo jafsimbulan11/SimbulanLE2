@@ -1,6 +1,6 @@
 <Solution>
   <Project Path="BlogDataLibrary/BlogDataLibrary.csproj" />
-  <Project Path="ConsoleApp1/ConsoleApp.csproj" Id="b1317147-6a8e-40e5-8bb1-c6567a02a046" />
+  <Project Path="BlogTestUI/BlogTestUI.csproj" Id="b1317147-6a8e-40e5-8bb1-c6567a02a046" />
   <Project Path="SimbulanBlogDB/SimbulanBlogDB.sqlproj" Id="4b66716c-3fe2-41dc-90a6-394ef4649993">
     <Build />
     <Deploy />
